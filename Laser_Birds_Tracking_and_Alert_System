@@ -7,8 +7,8 @@ const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
 
 
-#define BOTtoken "7104950327:AAH5cCvaVY_-5Y_6Iugm69oyADxwJESaz-A"
-#define CHAT_ID "6375833499"
+#define BOTtoken "Your_Telegram_Bot_Token"
+#define CHAT_ID "Your_Telegram_Chat_ID"
 #define LED D4
 #define Buzzer D3
 #define LReceiver D8
